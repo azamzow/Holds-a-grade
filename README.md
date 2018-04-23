@@ -24,7 +24,7 @@ $ java CurvedActivityDemo
 
 PassFailExamDemo.java 
 
-- This program first asks the user to input the number of questions on the test, along with how many they missed and the points for each question. It displays the exam score and if the student passed or failed. If the student passed, it displays 'P', if the student failed, it displays 'F'.
+- This program first asks the user to input the number of questions on the test, along with how many they missed and the points for each question. It displays the exam score and if the student passed or failed. If the student passed, it displays 'P', if the student failed, it displays 'F'. Below is an example of the program.
 
 ```
 How many questions are on the exam? 100
@@ -37,7 +37,7 @@ The exam grade is P
 
 CurvedActivityDemo.java 
 
-- This program asks the user to enter their raw grade and the curved percentage. It then displays on the screen the score the student had before the curve, the final score the student has after the curve, and also the letter grade of the final score.
+- This program asks the user to enter their raw grade and the curved percentage. It then displays on the screen the score the student had before the curve, the final score the student has after the curve, and also the letter grade of the final score. Below is an example of the program.
 
 ```
 Enter the student's raw numeric score: 70
